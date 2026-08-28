@@ -2,8 +2,6 @@
 
 Code and supplementary files for *Repeated Identification of Candidate Germplasm Across Published Sorghum Disease Screens* (manuscript version 23).
 
-I’m James Liu, a Data Science student at New College of Florida. I built this repository while working with Dr. Louis K. Prom and Dr. Ezekiel Ahn on a practical question: when sorghum accessions or lines are screened for disease response in different studies, which candidates keep showing up?
-
 ## Start here
 
 | If you are looking for… | Open… |
