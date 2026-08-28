@@ -1,0 +1,5 @@
+Panel,Measure,Value,"Central 95% interval, lower limit","Central 95% interval, upper limit",Unit
+A,Identified in one independent screen,441.0,,,accessions or lines
+A,Identified in at least two independent screens,171.0,,,accessions or lines
+B,Candidates identified repeatedly,0.27941176470588236,,,proportion
+B,Permutation median and central 95% interval,0.2147239263803681,0.19148936170212766,0.23809523809523808,proportion

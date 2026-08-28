@@ -1,0 +1,56 @@
+Manuscript result,Numeric result,Reported text,Unit,Supplementary source,Calculation
+Sources reviewed,149,149,sources,Table S1,Number of reviewed sources
+Quantitative datasets included,76,76,quantitative datasets,Table S1,Sources meeting the documented quantitative inclusion criteria
+Sources requiring additional quantitative data or documentation,38,38,sources,Table S1,Sources requiring additional quantitative data or documentation
+Sources used for context or represented by another report,35,35,sources,Table S1,Sources used for biological context or represented by another report
+Distinct experiments or assays,82,82,experiments or assays,Table S6,Number of distinct experiments or assays
+Disease screens after reports using the same measurements were combined,70,70,independent screens,Table S6,Disease screens after reports using the same measurements were combined
+Anthracnose datasets,39,39,quantitative datasets,Figure 1 source data,Quantitative datasets assigned to anthracnose
+Grain mold and seed-quality datasets,19,19,quantitative datasets,Figure 1 source data,Quantitative datasets assigned to grain mold or seed quality
+Direct disease comparisons in individual studies,5,5,experiments or assays,Table S11,Studies directly comparing the same accessions or lines across diseases
+Complete observations across the five comparisons,556,556,observations,Table S11,Complete observations across the five direct study comparisons
+Classifications favorable for one disease across the five comparisons,244,244,classifications,Table S11,Single-disease classifications across the five direct study comparisons
+Classifications favorable for two or more diseases across the five comparisons,115,115,classifications,Table S11,Multidisease classifications across the five direct study comparisons
+Exact expected mean for multidisease overlap,114.9840799672634,114.98,classifications,Table S12a,Exact mean of the summed fixed-margin distribution
+Exact expected median for multidisease overlap,115,115,classifications,Table S12a,Median of the summed fixed-margin distribution
+Lower limit of the central 95% interval for multidisease overlap,105,105,classifications,Table S12a,2.5th percentile of the summed fixed-margin distribution
+Upper limit of the central 95% interval for multidisease overlap,125,125,classifications,Table S12a,97.5th percentile of the summed fixed-margin distribution
+Lower-tail probability for multidisease overlap,0.5401614321764678,0.54,probability,Table S12a,Exact lower-tail probability for the observed summed multidisease overlap
+Upper-tail probability for multidisease overlap,0.5372078142877608,0.537,probability,Table S12a,Exact upper-tail probability for the observed summed multidisease overlap
+Minimum classifications favorable for one disease in sensitivity analyses,223,223,classifications,Table S12,Minimum across the prespecified cutoffs
+Maximum classifications favorable for one disease in sensitivity analyses,249,249,classifications,Table S12,Maximum across the prespecified cutoffs
+Minimum classifications favorable for two or more diseases in sensitivity analyses,115,115,classifications,Table S12,Minimum across the prespecified cutoffs
+Maximum classifications favorable for two or more diseases in sensitivity analyses,158,158,classifications,Table S12,Maximum across the prespecified cutoffs
+Puerto Rico classifications favorable for one disease at cutoff 3,40,40,classifications,Table S12,Puerto Rico sensitivity analysis at cutoff 3
+Puerto Rico classifications favorable for two or more diseases at cutoff 3,68,68,classifications,Table S12,Puerto Rico sensitivity analysis at cutoff 3
+Independent screens used to assess repeated identification,34,34,independent screens,Table S10,Independent screens containing matched accessions or lines and a documented candidate criterion
+Accessions or lines assessed in at least two independent screens,1154,1154,accessions or lines,Table S10,Accessions or lines assessed in at least two independent screens
+Candidates assessed in at least two independent screens,612,612,accessions or lines,Table S10,Candidates identified at least once among accessions or lines assessed in at least two screens
+Candidates identified in one of at least two independent screens,441,441,accessions or lines,Table S10,Candidates identified in one independent screen
+Candidates identified in at least two independent screens,171,171,accessions or lines,Table S10,Candidates identified in at least two independent screens
+Candidates assessed in one independent screen,1335,1335,accessions or lines,Table S10,Candidates assessed in one independent screen only
+Candidates identified repeatedly for the same disease,78,78,accessions or lines,Table S11,Candidates identified repeatedly for the same disease
+Candidates identified only across different diseases,93,93,accessions or lines,Table S11,Candidates identified only across different diseases
+Source-documented matches between IS and PI designations,39,39,matched accessions or lines,Source publications listed in Table S1,Source-documented accession-name equivalences
+Observed proportion of candidates identified repeatedly,0.2794117647058824,27.9%,proportion,Table S10,Observed number identified repeatedly divided by 612 candidates
+Permutation median for the proportion identified repeatedly,0.2147239263803681,21.5%,proportion,Table S10,Median of the permutation distribution
+Lower limit of the central 95% permutation interval,0.1914893617021277,19.1%,proportion,Table S10,2.5th percentile of the permutation distribution
+Upper limit of the central 95% permutation interval,0.2380952380952381,23.8%,proportion,Table S10,97.5th percentile of the permutation distribution
+Number of permutations,10000,10000,permutations,Table S10,Number of permutations specified for the primary analysis
+Random seed,20260714,20260714,seed,Table S10,Random-number seed specified for the primary analysis
+Two-sided empirical probability for repeated identification,0.0001999800019998,0.0002,probability,Table S10,Two-sided empirical probability with the plus-one correction
+Within-study Pareto comparisons,38,38,experiments or assays,Table S8,Number of Pareto analyses
+Accessions or lines on the Pareto fronts,1350,1350,observations,Table S8,Number of observations on Pareto fronts across all analyses
+Pareto comparisons used in candidate interpretation,26,26,experiments or assays,Table S8,Pareto analyses used for candidate interpretation
+Accessions or lines on Pareto fronts used to interpret candidates,439,439,observations,Table S8,Accessions or lines on Pareto fronts used to interpret candidates
+Pareto comparisons reported descriptively,12,12,experiments or assays,Table S8,Pareto analyses used for descriptive summaries
+Accessions or lines on Pareto fronts in descriptive response comparisons,911,911,accessions or lines,Table S8,Sum of accessions or lines on the descriptive Pareto fronts
+Accessions or lines assessed in the Ethiopia grain-mold response comparison,328,328,observations,Table S8,Accessions assessed in the Ethiopian grain-mold Pareto analysis
+Accessions or lines on the Ethiopia grain-mold Pareto front,6,6,accessions or lines,Table S8,Accessions on the Ethiopian grain-mold Pareto front
+Accessions or lines assessed in the Puerto Rico response comparison,108,108,observations,Table S8,Accessions assessed in the Puerto Rico Pareto analysis
+Accessions or lines on the Puerto Rico Pareto front,2,2,accessions or lines,Table S8,Accessions on the Puerto Rico Pareto front
+Disease-response observations recorded from the included studies,48124,48124,observations,Table S7,Sum of reported disease-response observations
+Observations included in quantitative summaries,47637,47637,observations,Table S7,Sum of observations used in quantitative summaries
+Descriptive observations and model statistics,487,487,observations,Table S7,"Sum of control measurements, other descriptive observations, severity ranges, contrast P values, and model statistics"
+Categorical disease-response observations,44100,44100,observations,Table S7,Count of categorical disease-response observations in the included studies
+Numerical disease-response observations,39106,39106,observations,Table S7,Count of numerical disease-response observations in the included studies

@@ -1,0 +1,7 @@
+Comparison identifier,Comparison,Diseases,Accessions or lines assessed (n),Candidates for each disease (n),Observed multidisease classifications (n),Exact expected mean,Expected median,"Central 95% interval, lower limit","Central 95% interval, upper limit",Lower-tail probability,Upper-tail probability
+panelA_pr_2017_2018,"Puerto Rico, 2017 to 2018",Anthracnose; Grain mold; Rust,108,Anthracnose: 72; Grain mold: 0; Rust: 39,25,25.999999999999996,26,21,31,0.4134990946709147,0.7392000015477341
+prom_minicore_multidisease_2019,"Sorghum mini-core, 2019",Anthracnose; Downy mildew; Head smut,224,Anthracnose: 111; Downy mildew: 49; Head smut: 101,76,74.52762276785712,75,67,82,0.7014642751524806,0.3972060141398099
+prom_senegal_seed_quality_2018_workbook,Senegal collection (Cuevas et al. 2018),Anthracnose; Grain mold,129,Anthracnose: 56; Grain mold: 28,13,12.155038759689923,12,8,17,0.7198551543238368,0.4389283345701197
+prom_converted_lines_anthracnose_downy_2016,Converted lines,Anthracnose; Downy mildew,48,Anthracnose: 8; Downy mildew: 11,1,1.8333333333333335,2,0,4,0.40243438942360077,0.8976861721804406
+prom_accession_anthracnose_grain_mold_2020,U.S. accessions,Anthracnose; Grain mold,47,Anthracnose: 11; Grain mold: 2,0,0.46808510638297873,0,0,2,0.5827937095282146,1.0
+declared_multidisease_comparisons_fixed_margin,Sum across the five comparisons,,556,,115,114.98407996726336,115,105,125,0.5401614321764678,0.5372078142877608

@@ -1,0 +1,35 @@
+Notes for the recurrent-candidate registry
+
+What the registry contains
+
+The registry reports normalized accession or line identifiers, labels used in
+the source publications, whether repeated findings involved the same disease or
+different diseases, the number of independent screens in which each candidate
+met a study criterion, and citations to the contributing publications.
+
+A separate table contains the 401 qualifying findings used to build the
+registry. These findings represent 349 unique combinations of a candidate and
+an independent screen. Together, the two tables connect each candidate with
+the publications that contributed to its classification.
+
+How the categories are defined
+
+"Identified repeatedly for the same disease" means that a candidate met a
+study criterion for at least one disease in more than one independent screen.
+The category can also include findings for other diseases.
+
+"Identified only across different diseases" means that a candidate met a
+study criterion in more than one independent screen, with a different disease
+represented in each screen.
+
+These findings identify accessions or lines for independent phenotyping. Such
+experiments can evaluate durability, breadth of response, mechanism, agronomic
+value, and suitability for deployment.
+
+Source data
+
+The registry contains summaries derived from documented study criteria. It
+does not include phenotype measurements, disease scores, rankings, thresholds,
+or values reported for individual accessions or lines. Those data remain with
+the cited publications or repositories and are governed by the terms stated by
+each publisher, repository, or rights holder.

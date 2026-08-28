@@ -1,0 +1,36 @@
+File path,File type,Contents,Contains named accessions or lines,Contains published row-level phenotype measurements,Scientific use
+DATA_DICTIONARY.csv,CSV,Guide to the supplied data files,No,No,Explains the contents and scientific role of each file
+analysis_inputs/Fixed_Margin_Comparison_Blocks.csv,CSV,Sample sizes candidate counts and observed multidisease counts for five direct comparisons,No,No,Calculates the exact distribution of disease overlap
+analysis_inputs/Recurrence_Analysis_Matrix_Anonymous.csv,CSV,Anonymous candidate classifications for 3655 accessions or lines across 34 independent screens,No,No,Calculates repeated candidate identification by permutation
+analysis_inputs/Recurrent_Candidate_Qualifying_Memberships.csv,CSV,The 401 qualifying observations for the 171 candidates identified repeatedly,Yes,No,Reconstructs the candidate registry and its source citations
+aggregate_data/AGGREGATE_OUTPUT_CHECKSUMS.txt,Text,SHA-256 values for the five supplied result files,No,No,Checks the derived numerical files
+aggregate_data/CURRENT_OUTPUT_MANIFEST.json,JSON,File details and reported numerical results,No,No,Records the v23 calculation results and file checksums
+aggregate_data/Recurrent_Candidate_Registry.csv,CSV,Detailed derived registry of the 171 candidates identified repeatedly,Yes,No,Checks candidate names screen counts disease patterns and citations
+aggregate_data/Repeated_Identification_Summary.csv,CSV,Observed and permutation results for repeated candidate identification,No,No,Reports the numerical results used in the manuscript
+aggregate_data/Repeated_Identification_Permutation_Distribution.csv,CSV,Results from the 10000 seeded permutations,No,No,Supports the reported interval and empirical probability
+aggregate_data/Disease_Overlap_Summary.csv,CSV,Study-level and combined results for the five direct disease comparisons,No,No,Reports the exact disease-overlap results used in the manuscript
+aggregate_data/Disease_Overlap_Exact_Distribution.csv,CSV,Exact probability distribution for the summed multidisease count,No,No,Supports the reported mean median interval and tail probabilities
+figure_source_data/Figure_1_source_data.csv,CSV,Counts and labels shown in Figure 1,No,No,Draws the literature review disease coverage and study flow panels
+figure_source_data/Figure_2_repeated_identification_source_data.csv,CSV,Observed and permutation values shown in Figure 2,No,No,Draws the summary of repeated candidate identification
+figure_source_data/Figure_3_disease_overlap_source_data.csv,CSV,Study counts shown in Figure 3,No,No,Draws the five direct disease comparisons
+figure_source_data/Figure_S1_Pareto_source_data.csv,CSV,Counts and labels shown in Figure S1,No,No,Draws the supplementary summary of Pareto fronts
+supplementary_tables/Table_S1_Sources_Reviewed.csv,CSV,Sources reviewed and their use in the study,No,No,Builds Table S1
+supplementary_tables/Table_S2_Searches_and_Citation_Tracing.csv,CSV,Literature searches and citation tracing,No,No,Builds Table S2
+supplementary_tables/Table_S3_Citation_Relationships.csv,CSV,Citation relationships reviewed,No,No,Builds Table S3
+supplementary_tables/Table_S4_Source_Files_and_Checksums.csv,CSV,Public source locations access dates and file checksums,No,No,Builds Table S4 and documents the published source files
+supplementary_tables/Table_S5_Reports_Using_the_Same_Measurements.csv,CSV,Reports based on the same phenotype measurements,No,No,Builds Table S5 and identifies publications reporting the same underlying measurements
+supplementary_tables/Table_S6_Experiments_and_Assays.csv,CSV,Experiments and assays included in quantitative summaries,No,No,Builds Table S6
+supplementary_tables/Table_S7_Disease_Endpoint_Counts.csv,CSV,Observation counts for each disease endpoint,No,No,Builds Table S7
+supplementary_tables/Table_S8_Pareto_Front_Summary.csv,CSV,Counts of accessions or lines on Pareto fronts within individual studies,No,No,Builds Table S8
+supplementary_tables/Table_S9_Candidate_Criteria.csv,CSV,Criteria used to identify candidates in each experiment or assay,No,No,Builds Table S9
+supplementary_tables/Table_S10_Repeated_Identification_Results.csv,CSV,Observed and permutation results for repeated candidate identification,No,No,Builds Table S10
+supplementary_tables/Table_S11_Study_Question_Results.csv,CSV,Numerical results for the two study questions,No,No,Builds Table S11
+supplementary_tables/Table_S12_Threshold_Sensitivity.csv,CSV,Results obtained with alternative disease-score thresholds,No,No,Builds Table S12
+supplementary_tables/Table_S12a_Disease_Overlap_Distribution.csv,CSV,Exact disease-overlap results for the five direct comparisons and their sum,No,No,Builds Table S12a
+supplementary_tables/Table_S13_Reported_Results_and_Sources.csv,CSV,Sources and calculations for numerical values reported in the manuscript,No,No,Builds Table S13
+supplementary_tables/Table_S14_Publications_Reviewed.csv,CSV,Publications reviewed from the Prom bibliography,No,No,Builds Table S14
+supplementary_tables/Table_S15_Citation_Tracing_Sources.csv,CSV,Sources found through one round of citation tracing,No,No,Builds Table S15
+supplementary_tables/Table_S16_Unresolved_References.csv,CSV,Identifier searches for references without recoverable titles,No,No,Builds Table S16
+supplementary_tables/Table_S17_Repeated_Candidates.csv,CSV,Registry of the 171 candidates identified repeatedly,Yes,No,Builds Table S17
+source_metadata/INPUT_CHECKSUMS.txt,Text,SHA-256 values and public locations for 100 acquired source files,No,No,Checks the files used to derive the study tables
+source_metadata/source_snapshot_manifest.json,JSON,Citations public locations access dates and checksums for 178 source files,No,No,Documents the acquired source files represented in Table S4

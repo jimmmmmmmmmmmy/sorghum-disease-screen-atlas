@@ -1,0 +1,6 @@
+comparison_id,comparison_label,diseases,complete_case_n,disease_candidate_counts,observed_multidisease_n
+panelA_pr_2017_2018,"Puerto Rico, 2017 to 2018","Anthracnose; Grain mold; Rust",108,72|0|39,25
+prom_minicore_multidisease_2019,"Sorghum mini-core, 2019","Anthracnose; Downy mildew; Head smut",224,111|49|101,76
+prom_senegal_seed_quality_2018_workbook,Senegal collection (Cuevas et al. 2018),"Anthracnose; Grain mold",129,56|28,13
+prom_converted_lines_anthracnose_downy_2016,Converted lines,"Anthracnose; Downy mildew",48,8|11,1
+prom_accession_anthracnose_grain_mold_2020,U.S. accessions,"Anthracnose; Grain mold",47,11|2,0

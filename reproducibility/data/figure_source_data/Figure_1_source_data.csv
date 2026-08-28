@@ -1,0 +1,24 @@
+Panel,Label,Count,Source and counting rule
+A,Sources receiving detailed review,149,Table S1
+A,Sources contributing quantitative disease data,76,Table S1
+A,Sources requiring additional data or documentation,38,Table S1
+A,Contextual or nonquantitative sources,35,Table S1
+B,Anthracnose,39,Disease category assigned to each quantitative dataset
+B,Grain mold and seed quality,19,Disease category assigned to each quantitative dataset
+B,Head smut,7,Disease category assigned to each quantitative dataset
+B,Leaf blight,6,Disease category assigned to each quantitative dataset
+B,Downy mildew,5,Disease category assigned to each quantitative dataset
+B,Rust,4,Disease category assigned to each quantitative dataset
+B,Ergot,3,Disease category assigned to each quantitative dataset
+B,Long smut,3,Disease category assigned to each quantitative dataset
+B,Other foliar diseases,2,Disease category assigned to each quantitative dataset
+B,Stalk rot,2,Disease category assigned to each quantitative dataset
+B,Multiple diseases reported as a composite,1,Disease category assigned to each quantitative dataset
+C,Sources reviewed,149,Number of reviewed sources
+C,Datasets with quantitative disease responses,76,Sources contributing quantitative disease responses
+C,Distinct experiments or assays,82,Number of distinct experiments or assays
+C,Disease screens after reports using the same measurements were combined,70,Reports using the same phenotype measurements were counted as one disease screen.
+C,Disease screens with matched accessions or lines and documented criteria,34,Disease screens used to evaluate repeated candidate identification
+C,Accessions or lines assessed in at least two disease screens,1154,Accessions or lines assessed in at least two disease screens
+C,Candidates identified at least once,612,Candidates identified at least once
+C,Candidates identified in at least two disease screens,171,Candidates identified in at least two disease screens
