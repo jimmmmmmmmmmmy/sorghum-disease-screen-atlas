@@ -285,9 +285,9 @@ def generate_figure_1(rows: list[dict[str, str]], output_dir: Path) -> None:
         "Contextual or nonquantitative sources",
     ]
     labels = [
-        "Sources contributing\nquantitative\ndisease data",
-        "Data or documentation\nincomplete",
-        "Contextual or\nnonquantitative sources",
+        "Sources\ncontributing\nquantitative\ndisease data",
+        "Data or\ndocumentation\nincomplete",
+        "Contextual or\nnonquantitative\nsources",
     ]
     counts = [selection[label] for label in categories]
     bars = left.barh(np.arange(3), counts, color=[BLUE, GOLD, GRAY], height=0.58)
@@ -328,7 +328,7 @@ def generate_figure_1(rows: list[dict[str, str]], output_dir: Path) -> None:
 
     coverage_display = {
         "Grain mold and seed quality": "Grain mold or seed quality",
-        "Multiple diseases reported as a composite": "Multiple diseases (composite)",
+        "Multiple diseases reported as a composite": "Multiple diseases\n(composite)",
     }
     display = [coverage_display.get(label, label) for label in coverage_labels]
     positions = np.arange(len(coverage_rows))
@@ -483,9 +483,9 @@ def generate_figure_2(rows: list[dict[str, str]], output_dir: Path) -> None:
     right.annotate(
         f"Permutation median\n{median:.1f}%",
         (median, 0),
-        xytext=(-4, 15),
+        xytext=(0, 15),
         textcoords="offset points",
-        ha="right",
+        ha="center",
         va="bottom",
     )
     right.set_xlim(15, 32)
